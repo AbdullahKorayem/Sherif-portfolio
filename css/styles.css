@@ -636,7 +636,9 @@ span {
     .Services {
         flex-direction: column-reverse;
     }
-
+.about .about-content .heading {
+        font-size: 2.8rem;
+    }
 
 
 }
