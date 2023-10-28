@@ -19,9 +19,12 @@
 }
 
 input {
-    color: black;
+    color: black !important;
 }
 
+textarea {
+    color: black !important;
+}
 html {
     font-size: 62.5%;
     overflow-x: hidden;
